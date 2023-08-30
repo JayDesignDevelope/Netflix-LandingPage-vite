@@ -26,7 +26,7 @@ const animation = keyframes`
 `
 
 const Wrapper = styled.div`
-background: linear-gradient(180deg, #381C1E 0.65%, #E50914 77.68%);
+background: linear-gradient(180deg, #381C1E 0.65%, #E50914 77.00%);
 `
 
 const ContentWrapper = styled.div`
