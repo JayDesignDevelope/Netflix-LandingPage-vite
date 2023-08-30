@@ -1,10 +1,8 @@
 import { styled ,keyframes} from 'styled-components'
-import WaveBackground from './WaveBackground'
 
 export default function Hero() {
   return (
     <Wrapper>
-    <WaveBackground/>
       <ContentWrapper>
         <TextWrapper>
           <Icon src="src/images/logos/netflixnewlogo.png" className="iconLogo" />
@@ -28,7 +26,7 @@ const animation = keyframes`
 `
 
 const Wrapper = styled.div`
-/* background: linear-gradient(180deg, #381C1E 0.65%, #E50914 77.68%); */
+background: linear-gradient(180deg, #381C1E 0.65%, #E50914 77.68%);
 `
 
 const ContentWrapper = styled.div`
