@@ -1,12 +1,12 @@
 import './App.css'
-import Architecture from './components/Architecture'
-import DataAnalysis from './components/DataAnalysis'
-import DesignSystem from './components/DesignSystem'
-import Footer from './components/Footer'
-import Hero from './components/Hero'
-import Intro from './components/Intro'
-import Nav from './components/Nav'
-import Recommendation from './components/Recommendation'
+import Architecture from './layouts/Architecture/Architecture'
+import DataAnalysis from './layouts/DataAnalysis/DataAnalysis'
+import DesignSystem from './layouts/DesignSystem/DesignSystem'
+import Footer from './layouts/Footer/Footer'
+import Hero from './layouts/Hero/Hero'
+import Intro from './layouts/Intro/Intro'
+import Nav from './layouts/Nav/Nav'
+import Recommendation from './layouts/Recommendation/Recommendation'
 
 function App() {
   
