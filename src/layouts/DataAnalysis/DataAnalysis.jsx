@@ -1,4 +1,4 @@
-import { styled } from 'styled-components'
+import {  styled } from 'styled-components'
 
 export default function DataAnalysis() {
   return (
@@ -7,6 +7,9 @@ export default function DataAnalysis() {
     </Container>
   )
 }
+
+
+
 
 const Container=styled.div`
 text-align: center;
