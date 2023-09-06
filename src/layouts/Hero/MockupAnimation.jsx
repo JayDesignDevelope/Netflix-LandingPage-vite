@@ -78,7 +78,7 @@ const Wrapper = styled.div`
     height: 267px;
     left: 0px;
     top: 0px;
-    background: url("src/images/logos/mock1netflix.svg"), rgba(39, 20, 62, 0.3);
+    background: url("public/images/logos/mock1netflix.svg"), rgba(39, 20, 62, 0.3);
     box-shadow: inset 0px 0px 0px 0.5px rgba(255, 255, 255, 0.2);
     backdrop-filter: blur(20px);
     /* Note: backdrop-filter has minimal browser support */
@@ -92,7 +92,7 @@ const Wrapper = styled.div`
     left: 284px;
     top: 0px;
 
-    background: url("src/images/logos/mock2netflix.svg"), rgba(39, 20, 62, 0.3);
+    background: url("public/images/logos/mock2netflix.svg"), rgba(39, 20, 62, 0.3);
     box-shadow: inset 0px 0px 0px 0.5px rgba(255, 255, 255, 0.2);
     backdrop-filter: blur(20px);
     /* Note: backdrop-filter has minimal browser support */
@@ -108,7 +108,7 @@ const Wrapper = styled.div`
     left: 578px;
     top: 0px;
 
-    background: url("src/images/logos/mock3netflix.svg"), rgba(23, 12, 61, 0.5);
+    background: url("public/images/logos/mock3netflix.svg"), rgba(23, 12, 61, 0.5);
     box-shadow: inset 0px 0px 0px 0.5px rgba(255, 255, 255, 0.2);
     backdrop-filter: blur(20px);
     border-radius: 8px; 
@@ -122,7 +122,7 @@ const Wrapper = styled.div`
     left: 878px;
     top: 0px;
 
-    background: url("src/images/logos/mock41netflix.svg"), rgba(23, 12, 61, 0.5);
+    background: url("public/images/logos/mock41netflix.svg"), rgba(23, 12, 61, 0.5);
     box-shadow: inset 0px 0px 0px 0.5px rgba(255, 255, 255, 0.2);
     backdrop-filter: blur(20px);
     border-radius: 8px; 
@@ -136,7 +136,7 @@ const Wrapper = styled.div`
     left: 0px;
     top: 262px;
 
-    background: url("src/images/logos/mockup4netflix.svg"), rgba(39, 20, 62, 0.3);
+    background: url("public/images/logos/mockup4netflix.svg"), rgba(39, 20, 62, 0.3);
     box-shadow: inset 0px 0px 0px 0.5px rgba(255, 255, 255, 0.2);
     backdrop-filter: blur(20px);
     border-radius: 8px;
@@ -151,7 +151,7 @@ const Wrapper = styled.div`
     top: 262px;
 
 
-    background: url("src/images/logos/mock31netflix.svg"), rgba(39, 20, 62, 0.3);
+    background: url("public/images/logos/mock31netflix.svg"), rgba(39, 20, 62, 0.3);
     box-shadow: inset 0px 0px 0px 0.5px rgba(255, 255, 255, 0.2);
     backdrop-filter: blur(20px);
     border-radius: 8px;
@@ -165,7 +165,7 @@ const Wrapper = styled.div`
     left: 578px;
     top: 262px;
 
-    background: url("src/images/logos/mock7netflix.svg"), rgba(39, 20, 62, 0.2);
+    background: url("public/images/logos/mock7netflix.svg"), rgba(39, 20, 62, 0.2);
     box-shadow: inset 0px 0px 0px 0.5px rgba(255, 255, 255, 0.2);
     backdrop-filter: blur(20px);
     /* Note: backdrop-filter has minimal browser support */
@@ -181,7 +181,7 @@ const Wrapper = styled.div`
     left: 878px;
     top: 262px;
 
-    background: url("src/images/logos/mock8netflix.svg"), rgba(39, 20, 62, 0.2);
+    background: url("public/images/logos/mock8netflix.svg"), rgba(39, 20, 62, 0.2);
     box-shadow: inset 0px 0px 0px 0.5px rgba(255, 255, 255, 0.2);
     backdrop-filter: blur(20px);
     /* Note: backdrop-filter has minimal browser support */
